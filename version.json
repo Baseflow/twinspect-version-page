@@ -1,12 +1,12 @@
 [
   {
-    "latest_version": "1.0.8+14",
+    "latest_version": "1.0.9+14",
     "minimum_version": "1.0.6+12",
     "platform": "android",
     "app": "twinspect-app"
   },
   {
-    "latest_version": "1.0.8+14",
+    "latest_version": "1.0.9+14",
     "minimum_version": "1.0.6+12",
     "platform": "ios",
     "app": "twinspect-app"
